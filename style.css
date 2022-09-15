@@ -13,6 +13,10 @@ body {
     background-color: #B15B58;
 }
 
+header {
+    border: 1px solid;
+}
+
 .title-page {
     color: black;
     font-family: 'Harry';
