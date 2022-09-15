@@ -13,15 +13,16 @@ body {
     background-color: #B15B58;
 }
 
-
-header {
-    border-bottom: 1px solid;
-}
-
 .title-page {
     color: black;
     font-family: 'Harry';
-    font-size: 20px;
+    font-size: 24px;
+}
+
+.apresentacao h3 {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    padding: 10px 0px;
 }
 
 .card-contain {
@@ -37,6 +38,8 @@ header {
     color: white;
     border-bottom: 1px solid #eec87f;
     text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 10px 0px;
 }
 
 .card-contain p {
