@@ -24,10 +24,22 @@ header {
     font-size: 30px;
 }
 
+
+.apresentacao {
+    padding: 20px 0px;
+}
+
 .apresentacao h3 {
     font-size: 24px;
     font-family: Arial, sans-serif;
     padding: 10px 0px;
+}
+
+.apresentacao p {
+    color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
 }
 
 .card-contain {
