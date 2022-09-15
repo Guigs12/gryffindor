@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: Harry;
+    src: url('font/HARRYP__.TTF');
+}
+
+body {
+    background-color: #B15B58;
+}
+
+
+header {
+    border-bottom: 1px solid;
+}
+
+.title-page {
+    color: #eec87f;
+    font-family: 'Harry';
+    font-size: 20px;
+}
+
+.card-contain {
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.card-contain img {
+    width: 180px;
+}
+
+.card-contain h3 {
+    color: white;
+    border-bottom: 1px solid #eec87f;
+    text-align: center;
+}
+
+.card-contain p {
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+}
