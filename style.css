@@ -40,7 +40,7 @@ header {
 }
 
 .card-contain h3 {
-    color: white;
+    color: #eec87f;
     border-bottom: 1px solid #eec87f;
     text-align: center;
     font-family: Arial, sans-serif;
@@ -48,7 +48,7 @@ header {
 }
 
 .card-contain p {
-    color: white;
+    color: black;
     font-size: 18px;
     font-weight: lighter;
 }
