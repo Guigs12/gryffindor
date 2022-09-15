@@ -26,20 +26,21 @@ header {
 
 
 .apresentacao {
-    padding: 20px 0px;
+    padding: 50px 0px;
 }
 
 .apresentacao h3 {
     font-size: 24px;
+    font-weight: bold;
     font-family: Arial, sans-serif;
-    padding: 10px 0px;
+    padding: 5px 0px;
 }
 
 .apresentacao p {
     color: lightgray;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 18px;
-    font-weight: normal;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    font-weight: lighter !important;
 }
 
 .card-contain {
@@ -59,7 +60,7 @@ header {
 }
 
 .card-contain p {
-    color: white;
+    color: lightgrey;
     font-size: 18px;
     font-weight: lighter;
 }
